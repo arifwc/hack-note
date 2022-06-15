@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "0bfac811f1fde25b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1857392f8035dff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AD/SET UP AD LAB.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "834afc380951a7bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27823cfce94e523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bcd8ddfe233c434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "140abaf634928322",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "707fd77ddaa1635c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3045cac899f743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af11417b3ebe1e27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AD/SET UP AD LAB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f067820e8a828529",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "active": "b1857392f8035dff",
+  "lastOpenFiles": [
+    "AD/SET UP AD LAB.md",
+    "Cheatsheet.md"
+  ]
+}
